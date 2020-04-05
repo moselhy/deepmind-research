@@ -18,7 +18,7 @@ and the full text can be accessed directly at https://rdcu.be/b0mtx.
 
 ### Dependencies
 
-*   Python 3.6+.
+*   Python 3.6.
 *   [Abseil 0.8.0](https://github.com/abseil/abseil-py)
 *   [Numpy 1.16](https://numpy.org)
 *   [Six 1.12](https://pypi.org/project/six/)
